@@ -1,0 +1,6 @@
+@import "toto.css";
+
+body {
+    background-color: aqua;
+    background-image: url("../images/logo.png");
+}
